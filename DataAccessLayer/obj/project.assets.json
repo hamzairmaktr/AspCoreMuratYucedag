@@ -2041,11 +2041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\hamza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -2069,8 +2069,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\hamza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

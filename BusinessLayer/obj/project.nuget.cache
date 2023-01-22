@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7LF7UDXlD3PMm08c1wVeXbfAjimdQmZeUxP5NOBppS9/Wn242NZbfq5+g4NNhp8EP+pujrKw34ZQtFXEBOGfA==",
+  "dgSpecHash": "SOtNbS4P4ppLFK5oW85ewtgpkuI5LYj2mnP89aL0LR+VSGNhV/oCJ/LuEwPR12JovzYaKHXMrXAEESba+S0nFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamza\\Desktop\\Projeler\\backend\\AspCoreMuratYucedag\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\hamza\\Documents\\GitHub\\AspCoreMuratYucedag\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hamza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
